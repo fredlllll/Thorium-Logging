@@ -3,7 +3,7 @@ using NLog;
 using NLog.Config;
 using NLog.Targets;
 
-namespace Thorium_Logging
+namespace Thorium.Logging
 {
     public static class Logging
     {
